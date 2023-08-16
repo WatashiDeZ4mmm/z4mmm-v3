@@ -14,9 +14,9 @@ global.APIKeys = {
 
 // setting 
 global.autoread = false // auto read message
-global.autobio = true 
+global.autobio = false 
 global.userRegister = false 
-global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
+global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
 //Available in indonesia , english & spanyol 
@@ -26,24 +26,24 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "GeekzBot-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ inodgeekz ×፝֟͜×" //nama kalian
-global.myweb ="https://github.com/INODGEEKZ" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/inodgeekz" //bebas asal jan hapus
-global.myweb2 = "https://linktr.ee/inodgeekz" //bebas
-global.email = "inodsanjaya1998@gmail.com" //bebas
-global.region = "Indonesia" //bebas
-global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6285649455626'] //premium user
-global.owner = ["6285649455626","6285156840452"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6285649455626" // nomor wa kalian
-global.ownernomerr = "+6285649455626" //nmr wa kalian
+global.botname = "z4mmmSOLID - MD" //namabot kalian
+global.ownername= "z4mmmsmith" //nama kalian
+global.myweb ="https://github.com/WatashiDeZ4mmm" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/" //bebas asal jan hapus
+global.myweb2 = "https://linktr.ee/" //bebas
+global.email = "z4mmmsolid@gmail.com" //bebas
+global.region = "Malaysia" //bebas
+global.timezone = 'Asia/Kuala_Lumpur' //  timezone wib
+global.premium = ['601137965366'] //premium user
+global.owner = ["601137965366","60183186335"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "601137965366" // nomor wa kalian
+global.ownernomerr = "+601137965366" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/0e75be4f086f44b7388c9.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/d08bb19aa8b9cf44bd65c.mp4'
-global.packname = '© GeekzBot-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh inodgeekz' //sticker wm ganti nama kalian
+global.packname = '© z4mmmSOLID - MD' //sticker wm ubah
+global.author = 'Di Buat Oleh z4mmsmith' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
